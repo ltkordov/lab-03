@@ -26,6 +26,8 @@ During the lab demo, we'll implement "Add City" functionality:
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="assets/img1.png" width="300" style="margin: 20px;">
     <img src="assets/img2.png" width="300" style="margin: 20px;">
+    <img src="assets/img3.png" width="300" style="margin: 20px;">
+    <img src="assets/img4.png" width="300" style="margin: 20px;">
 </div>
 
 <br>
