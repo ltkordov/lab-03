@@ -61,22 +61,17 @@ val updatedCity = City(
 
 ### 2. Choose Your Implementation
 
-Option 1 - Basic Approach:
+Recommended Approach:
 
 - Track which City object is selected
 - Store the edited city name and province in text fields
 - Create a new City object with the updated values
 - Replace the selected city in the list
 
-Option 2 - Recommended Approach:
-
-- Change the City properties from val to var
-- Update city.name and city.province directly
-- Make sure the UI still updates after editing
 
 ### Example Code
 
-One approach is to add an UpdateCity() function to CityRepository:
+One approach is to add an updateCity() function to CityRepository:
 
 ```kotlin
 fun updateCity(oldCity: City, updatedCity: City) {
