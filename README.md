@@ -2,16 +2,11 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Logan Kordov`
+- **CCID:** `ltkordov`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+The lab 3 slides, pdf files, and the initial github repo that I forked.
 
 ## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
